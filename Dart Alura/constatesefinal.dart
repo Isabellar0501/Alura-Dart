@@ -9,6 +9,7 @@ void main() {
   const String nome = 'Isabella ';
   const String sobrenome = 'Rodrigues';
   //var não usa em const e nem em final
+  //const atribui valor 1 vez só
 
   projeto = 'Meu primeiro contato com Dart';
   print(idade);
